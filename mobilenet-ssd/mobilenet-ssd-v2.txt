@@ -1,0 +1,13 @@
+﻿python 3.6.6
+tensorflow 1.11.0
+pillow 5.3.0
+numpy 1.15.1
+imutils 0.5.2
+opencv-python 4.1.0.25
+lxml 4.3.3
+pandas 0.24.2
+
+使用pycharm打开 mobilenet-ssd-v2文件夹
+
+如果训练的话，还需要配置 pycocotools,只是测试的话，上面是主要的第三方包，
+运行的时候若是缺少其他第三方包，直接安装就行。
